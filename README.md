@@ -3,7 +3,7 @@ In order to present better performance of handling of limit, we develop the Data
 ## Summary
 I would like to present you an adaptive velocity planning I developed with my teammate Thore at KA-RaceIng for the autonomous electric vehicle, the KIT24.
 
-https://github.com/jonashuang0904/Adaptive-Velocity-Planning/blob/main/20240817_10-54-08_9075_maru.jpg
+<https://github.com/jonashuang0904/Adaptive-Velocity-Planning/blob/main/20240817_10-54-08_9075_maru.jpg>
 ## Demo
 
 ## Description
