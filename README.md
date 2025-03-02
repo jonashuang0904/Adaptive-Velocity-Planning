@@ -3,16 +3,17 @@ In order to present better performance of handling of limit, we develop the Data
 ## Summary
 I would like to present you an adaptive velocity planning I developed with my teammate Thore at KA-RaceIng for the autonomous electric vehicle, the KIT24.
 
-<https://github.com/jonashuang0904/Adaptive-Velocity-Planning/blob/main/20240817_10-54-08_9075_maru.jpg>
+![20240817_10-56-11_3991_wintermantel (1)](https://github.com/user-attachments/assets/bad99dfe-27ec-4d4f-8b27-b1835d682968)
+
+
 ## Demo
+
+<https://github.com/mabdn/score-function-dfs/assets/93079021/66038b40-8097-43d2-b00d-ff6f92832168>
+
 
 ## Description
 KA-RaceIng is a racing team of students from *Karlsruhe Institute of Technology* competing in *Formula Student*.
 *Formula Student* is an international engineering competition. 50-member teams from universities around the world design, build, and code autonomous electric full-sized race cars.
-
-<https://github.com/mabdn/score-function-dfs/assets/93079021/66038b40-8097-43d2-b00d-ff6f92832168>
-
-<https://github.com/mabdn/score-function-dfs/assets/93079021/85f6e870-fdb0-4f2b-966b-64d09f0ee609>
 
 KA-RaceIng is one of the world's best formula student teams in autonomous racing.
 - 1st place of Engineering Design Driverless in Formula Student Germany 2024
