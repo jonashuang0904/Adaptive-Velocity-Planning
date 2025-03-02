@@ -6,7 +6,12 @@ I would like to present you an adaptive velocity planning I developed with my te
 ![20240817_10-56-11_3991_wintermantel (1)](https://github.com/user-attachments/assets/bad99dfe-27ec-4d4f-8b27-b1835d682968)
 
 
-## Demo
+## Highlight and demo
+The adaptive frip estimation is able to be acheived by the gaussian process.
+
+![image](https://github.com/user-attachments/assets/666dbe9c-d58b-4640-aee0-80d743f93c01)
+
+## Competition
 Formula Student Germany 2024 Skidpad
 
 <https://www.youtube.com/watch?v=Fs6a0Aqu4YA>
