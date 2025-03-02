@@ -7,7 +7,10 @@ I would like to present you an adaptive velocity planning I developed with my te
 
 
 ## Demo
+Formula Student Germany 2024 Skidpad
 
+Formula Student East 2024 Autocross
+Formula Student East 2022 Trackdrive
 <https://github.com/mabdn/score-function-dfs/assets/93079021/66038b40-8097-43d2-b00d-ff6f92832168>
 
 
