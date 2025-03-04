@@ -36,4 +36,4 @@ KA-RaceIng is one of the world's best formula student teams in autonomous racing
 - 1st place in Formula Student Hungary 2022 (driverless)
 - 1st place in Formula Student Germany, Hungary, and Czech 2021 (driverless)
 ## License
-The code I wrote in this project is private. The KA-RaceIng team actively uses it. It is the core of path planning at KA-RaceIng and contributes its part to our success in autonomous racing. Hence, I cannot publish any of this code here. I can give you more insights in a personal discussion, though.
+The code I wrote in this project is private. The KA-RaceIng team actively uses it. It is the core of motion planning at KA-RaceIng and contributes its part to our success in autonomous racing. Hence, I cannot publish any of this code here. I can give you more insights in a personal discussion, though.
